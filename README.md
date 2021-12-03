@@ -3,3 +3,5 @@ Hele pengeby spillet. Alt burde fungere fint og køre udenom Danske Banks server
 
 **Spil det her**
 https://futtiiz.github.io/pengeby/
+
+CREDIT TIL futtiiz
